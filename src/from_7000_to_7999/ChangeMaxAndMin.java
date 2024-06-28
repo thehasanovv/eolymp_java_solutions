@@ -27,7 +27,5 @@ public class ChangeMaxAndMin {
         for (int num : array) {
             System.out.print(num + " ");
         }
-
-
     }
 }
